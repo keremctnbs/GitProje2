@@ -7,11 +7,7 @@ public class Merhaba {
         for (int i=0;i<5;i++){
             System.out.println("Merhaba "+i);
         }
-        int sayac=0;
-        do {
-            System.out.println("yeni merhaba");
-          sayac++;
-        }while (sayac<5);
+
 
     }
 }
